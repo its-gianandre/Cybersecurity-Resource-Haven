@@ -76,3 +76,6 @@ This is a collection of cybersecurity, computer science, and other related resou
 
 ## Cybersecurity/Tech Certifications
 [TBD]
+
+## News in Technology
+[TBD]
