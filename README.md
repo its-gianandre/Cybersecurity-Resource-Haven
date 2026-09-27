@@ -4,31 +4,57 @@ This is a collection of cybersecurity, computer science, and other related resou
 [TBD]
 ## General Cybersecurity/IT Resources
 [TryHackMe](https://tryhackme.com/)
+
 [HackTheBox](https://www.hackthebox.com/)
+
 [MasonCC Training CTF](https://tctf.competitivecyber.club/)
+
 [OverTheWire Wargames](https://overthewire.org/wargames/)
+
 [CyLab Security Academy (formerly PicoCTF)](https://cylabacademy.org/)
+
 [Full Cybersecurity Roadmap](https://roadmap.sh/cyber-security)
+
 [pwn.college](https://pwn.college/)
+
 [Cyber Defenders](https://cyberdefenders.org/)
+
 [NSA Codebreaker Challenge](https://nsa-codebreaker.org/home)
+
 [MasonCC CTF Courses - GitHub](https://github.com/MasonCompetitiveCyber/ctf-courses)
+
 [CTF Handbook (CTF 101)](https://ctf101.org/)
+
 [Introduction to the National Cyber League](https://lor.instructure.com/resources/29c2e86f851240a690bae1de4089a888)
+
 [NCL Resources](https://nationalcyberleague.org/competition/resources)
+
 [The Cryptopals Crypto Challenges](https://cryptopals.com/)
+
 [Linux Journey](https://labex.io/linuxjourney)
+
 [Cybersecurity Interview Questions and Answers](https://www.synergisticit.com/cyber-security-interview-questions-and-answers/)
+
 [36 IT Interview Questions](https://www.indeed.com/career-advice/interviewing/it-interview-questions)
+
 [KC7 - Hunt Hackers](https://kc7cyber.com/)
+
 [Cybersecurity Mastery Roadmap - GitHub](https://github.com/Hamed233/Cybersecurity-Mastery-Roadmap?tab=readme-ov-file#roadmap-overview)
+
 [ServiceDesk Simulator](https://servicedesk-simulator.com/)
+
 [IT Support Simulator -  Paolo Ronco](https://paoloronco.it/en/writing/it-support-simulator-il-mio-progetto-di-simulazione-gestione-ticket-it)
+
 [Recommended readings for Cybersecurity](http://dfir.org/recommended-reading/)
+
 [CertGames](https://certgames.com/home)
+
 [Cybersecurity Education Resources - GitHub](https://github.com/CSIRT-MU/edu-resources)
+
 [Another Massive Curated Resource FREE Cybersecurity Training - Reddit](https://www.reddit.com/r/cybersecurity/comments/j7ji0n/another_massive_curated_resource_free/)
+
 [Awesome Cybersecurity Resources 2026 - GitHub](https://github.com/arceuzvx/Cybersecurity_resources)
+
 
 ## OSINT
 [TBD]
