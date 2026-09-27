@@ -1,7 +1,7 @@
 # Cybersecurity Resource Haven
 This is a collection of cybersecurity, computer science, and other related resources I've collected ever since I started college. If you're starting out in cybersecurity but you're having trouble finding reliable learning resources, this can be a good place to start. These can range from training platforms, to books, to other GitHub repos. I hope that any of these can be of help to you. 
 
-[TBD]
+
 ## General Cybersecurity/IT Resources
 [TryHackMe](https://tryhackme.com/)
 
