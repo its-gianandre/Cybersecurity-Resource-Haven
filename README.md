@@ -4,22 +4,31 @@ This is a collection of cybersecurity, computer science, and other related resou
 
 ## New to cybersecurity? Check these videos out...
 ### Want to get into cybersecurity but not sure where to start? Check out these resources first (no influencer bs)
+
+Some of these videos are old, but are still relevant today
+
 are you interested in cybersecurity - crin
+
 https://www.youtube.com/watch?v=rQ9-BYcjUmc
 
 realistic cyber job guide (complete) - crin
+
 https://www.youtube.com/watch?v=iUAqNI_zTOc&t=1s
 
 The Secret step-by-step Guide to learn Hacking - LiveOverflow
+
 https://www.youtube.com/watch?v=2TofunAI6fU&t=322s
 
 How to learn Hacking? ft. Rubber Ducky - LiveOverflow
+
 https://www.youtube.com/watch?v=iKXd9zW1OuI
 
 stop wasting your time in cybersecurity - Cyb3rMaddy
+
 https://www.youtube.com/watch?v=01Qj_FiYalc&t=73s
 
 how i would learn cybersecurity in 2026 if i had to start over - Mad Hat
+
 https://www.youtube.com/watch?v=RVPKW--dqhw
 
 ## General Cybersecurity/IT Resources
