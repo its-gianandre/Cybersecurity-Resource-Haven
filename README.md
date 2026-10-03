@@ -3,7 +3,7 @@ This is a collection of cybersecurity, computer science, and other related resou
 
 
 ## If you're new to cybersecurity, check these out
-#### Want to get into cybersecurity but not sure where to start? Check out these resources first (no influencer bs)
+### Want to get into cybersecurity but not sure where to start? Check out these resources first (no influencer bs)
 are you interested in cybersecurity - crin
 https://www.youtube.com/watch?v=rQ9-BYcjUmc
 
