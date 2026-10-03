@@ -2,6 +2,26 @@
 This is a collection of cybersecurity, computer science, and other related resources I've collected ever since I started college. If you're starting out in cybersecurity but you're having trouble finding reliable learning resources, this can be a good place to start. These can range from training platforms, to books, to other GitHub repos. I hope that any of these can be of help to you. 
 
 
+## If you're new to cybersecurity, check these out
+#### Want to get into cybersecurity but not sure where to start? Check out these resources first (no influencer bs)
+are you interested in cybersecurity - crin
+https://www.youtube.com/watch?v=rQ9-BYcjUmc
+
+realistic cyber job guide (complete) - crin
+https://www.youtube.com/watch?v=iUAqNI_zTOc&t=1s
+
+The Secret step-by-step Guide to learn Hacking - LiveOverflow
+https://www.youtube.com/watch?v=2TofunAI6fU&t=322s
+
+How to learn Hacking? ft. Rubber Ducky - LiveOverflow
+https://www.youtube.com/watch?v=iKXd9zW1OuI
+
+stop wasting your time in cybersecurity - Cyb3rMaddy
+https://www.youtube.com/watch?v=01Qj_FiYalc&t=73s
+
+how i would learn cybersecurity in 2026 if i had to start over - Mad Hat
+https://www.youtube.com/watch?v=RVPKW--dqhw
+
 ## General Cybersecurity/IT Resources
 [TryHackMe](https://tryhackme.com/)
 
