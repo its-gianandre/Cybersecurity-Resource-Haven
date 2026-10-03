@@ -2,7 +2,7 @@
 This is a collection of cybersecurity, computer science, and other related resources I've collected ever since I started college. If you're starting out in cybersecurity but you're having trouble finding reliable learning resources, this can be a good place to start. These can range from training platforms, to books, to other GitHub repos. I hope that any of these can be of help to you. 
 
 
-## If you're new to cybersecurity, check these out
+## New to cybersecurity? Check these videos out...
 ### Want to get into cybersecurity but not sure where to start? Check out these resources first (no influencer bs)
 are you interested in cybersecurity - crin
 https://www.youtube.com/watch?v=rQ9-BYcjUmc
